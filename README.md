@@ -68,4 +68,8 @@ The project is built in a modular way with clear separation between components:
 
 ---
 
+<div align="center"> <table> <tr> <td align="center" width="50%"> <h4>🤖 Computer vs Computer</h4> <video src="https://github.com/user-attachments/assets/a21dcc22-b144-4ce7-a775-cc507d85bc62" controls style="width:100%; max-width:420px; border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,0.25);"> </video> </td> <td align="center" width="50%"> <h4>👥 Human vs Computer</h4> <video src="https://github.com/user-attachments/assets/1201b93c-97d1-4551-84a2-a76b40917b98" controls style="width:100%; max-width:420px; border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,0.25);"> </video> </td> </tr> </table> </div>
+
+
+
 **Enjoy the game! 🎮**
