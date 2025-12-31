@@ -44,7 +44,6 @@ A multiplayer Tetris game developed in C++ with support for various game modes, 
 
 - **Operating System**: Windows 10 or higher
 - **Compiler**: Visual Studio 2019 or higher (or any compatible C++ compiler)
-- **Libraries**: Windows API (included with Windows)
 
 ## 🏗️ Architecture
 
